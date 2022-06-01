@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+  margin: 1rem;
+  background: linear-gradient(
+    to right,
+    rgba(243, 243, 45, 0.478),
+    rgba(176, 40, 40, 0.526)
+  );
+}
+.task-table {
+  background: rgba(90, 88, 88, 0.399);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgb(110, 109, 109);
+  /* backdrop-filter: blur(2px); */
+}
